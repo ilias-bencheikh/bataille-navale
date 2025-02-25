@@ -52,8 +52,8 @@ Les contributions sont les bienvenues ! Veuillez soumettre une pull request ou o
 
 ## Auteur
 
-- Ilias Bencheikh : @bencheik
-- Rayan Belhassen : @belhasse
+- Ilias Bencheikh : ilias.bencheikh@etu.u-paris.fr
+- Rayan Belhassen : rayan.belhassen@etu.u-paris.fr
 
 ## Licence
 
