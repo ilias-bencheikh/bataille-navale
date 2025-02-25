@@ -1,0 +1,6 @@
+(library
+ (name lib)
+ (public_name Bataille_Navale) ;; Le nom de la bibliothèque
+ (wrapped false)
+ (modules Plateaux IA Bateaux Regle Outils Action GameState GameView Coords) ;; Les modules de la bibliothèque)
+)
